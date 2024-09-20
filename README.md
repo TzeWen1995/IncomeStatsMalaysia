@@ -39,6 +39,7 @@ A simple analysis of dash Dashboard that visualizes the household income statist
 
 ## Report
 -A case study report available for view in PDF format.
+-PowerBI file report also available for view.
 
 ## Contact
 -Any suggestions for improvement please feel free to contact me at tzewen95@outlook.com
